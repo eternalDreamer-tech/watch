@@ -1,5 +1,6 @@
 hello,my name is aditya thakur from cse(ai)-a.
 the repo has my assignment gadget_launch.html
+
 what is inside-
 <!DOCTYPE html> → Defines the document as HTML5.
 
